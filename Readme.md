@@ -78,7 +78,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/myntra/pipeline"
+	"github.com/DevOps-Corner/pipeline"
 )
 
 type work struct {
